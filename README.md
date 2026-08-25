@@ -29,6 +29,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/mansi2206/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -37,5 +38,6 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mansi2206/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
