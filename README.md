@@ -16,6 +16,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mansi2206/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -39,11 +40,13 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mansi2206/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mansi2206/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
