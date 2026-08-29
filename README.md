@@ -47,6 +47,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mansi2206/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
