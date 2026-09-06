@@ -54,6 +54,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mansi2206/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -69,4 +70,8 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mansi2206/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
