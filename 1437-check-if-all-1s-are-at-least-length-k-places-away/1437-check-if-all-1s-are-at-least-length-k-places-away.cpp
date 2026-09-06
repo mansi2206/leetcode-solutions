@@ -4,17 +4,15 @@ public:
         int pIdx = -1;
 
         for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] == 1) {
-                int cIdx = i;
-                // does pIdx exist
-                if (pIdx == -1) {
-                    pIdx = i;
 
+            if (nums[i] == 1) {
+                
+                if (pIdx != -1) {
+                    if (i - pIdx - 1 < k) {
+                        return false;
+                    }
                 }
-                // valid hain
-                else if(cIdx - pIdx - 1 < k){ 
-                    return false; 
-                }
+
                 pIdx = i;
             }
         }
