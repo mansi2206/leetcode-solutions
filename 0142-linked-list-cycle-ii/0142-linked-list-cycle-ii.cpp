@@ -9,11 +9,12 @@
 class Solution {
 public:
     ListNode* detectCycle(ListNode* head) {
-        ListNode* fast = head;
+
         ListNode* slow = head;
+        ListNode* fast = head;
         bool isCycle = false;
 
-        while (fast != NULL && fast->next != NULL) {
+        while (fast->next != NULL && fast != NULL) {
             slow = slow->next;
             fast = fast->next->next;
 
@@ -25,7 +26,6 @@ public:
         if (!isCycle) {
             return NULL;
         }
-
         slow = head;
         ListNode* prev = NULL;
         while (slow != fast) {
@@ -33,7 +33,6 @@ public:
             prev = fast;
             fast = fast->next;
         }
-        // prev -> next = NULL; // remove cycle
         return slow;
     }
 };
