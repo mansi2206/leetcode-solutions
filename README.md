@@ -13,6 +13,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/mansi2206/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/mansi2206/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
