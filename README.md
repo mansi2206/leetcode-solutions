@@ -60,6 +60,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0074-search-a-2d-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mansi2206/leetcode-solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -77,6 +78,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0033-search-in-rotated-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/mansi2206/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
