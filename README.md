@@ -56,6 +56,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -73,6 +74,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Floyd's Cycle Finding Algorithm
