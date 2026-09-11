@@ -44,6 +44,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mansi2206/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/mansi2206/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0033-search-in-rotated-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -78,12 +80,14 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0033-search-in-rotated-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mansi2206/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +100,12 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
